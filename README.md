@@ -9,3 +9,5 @@
 Увлкаюсь сноубрдингом, но редко  
 Раньше занимался фотографиями  
 Обожаю кататься на водных лыжах
+### Контакты
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pety4ka)
